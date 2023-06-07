@@ -16,8 +16,9 @@ The navbar is built with React-Bootstrap and contains the following elements:
 
 The connection status indicator is updated in real time based on the state of the connection status in the React-Redux store.
 
-<img src="/age-viewer/frontend/public/resources/images/screenshot.png" alt="Alt Text" width="300" height="200" />
-<img src="/age-viewer/frontend/public/resources/images/screenshot2.png" alt="Alt Text" width="300" height="200" />
+<img src="/frontend/public/resources/images/screenshot.png" alt="Alt Text" width="300" height="200" />
+<img src="/frontend/public/resources/images/screenshot2.png" alt="Alt Text" width="300" height="200" />
+	
 # What is Apache-Age Viewer
 Apache-Age Viewer is a web based user interface that provides visualization of graph data stored in a postgreSQL database with AGE extension. 
 It is graph visualisation tool, for Apache AGE.
