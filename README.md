@@ -15,9 +15,9 @@ The navbar is built with React-Bootstrap and contains the following elements:
  - A connection status indicator that shows whether the user is connected to the database
 
 The connection status indicator is updated in real time based on the state of the connection status in the React-Redux store.
-
+When Connected
 ![screenshot sample](./frontend/public/resources/images/screenshot.png)
-<br/>
+When Disconnected
 ![screen shot sample](./frontend/public/resources/images/screenshot2.png)
 	
 # What is Apache-Age Viewer
